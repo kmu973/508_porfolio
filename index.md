@@ -2,9 +2,8 @@
 
 ------------------------------------------------------------------------
 
-### Data analysis
-
-[Bikeshare Prediction](/works/Bike Share Prediction_Min.html) <img src="images/Bikeshare_main.png?raw=true"/>
+### [Bikeshare Prediction](/works/Bike Share Prediction_Min.html) 
+<img src="images/Bikeshare_main.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
