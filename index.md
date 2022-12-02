@@ -1,10 +1,10 @@
-## Portfolio
+## Min the world
 
 ------------------------------------------------------------------------
 
-### Category Name 1
+### Data analysis
 
-[Project 1 Title](/sample_page) <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Title](/works/Bike Share Prediction_Min.html) <img src="Bikeshare_main.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
