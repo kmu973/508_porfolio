@@ -4,7 +4,7 @@
 
 ### Data analysis
 
-[Project 1 Title](/works/Bike Share Prediction_Min.html) <img src="Bikeshare_main.png?raw=true"/>
+[Project 1 Title](/works/Bike Share Prediction_Min.html) <img src="images/Bikeshare_main.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
